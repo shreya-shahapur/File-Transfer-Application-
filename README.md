@@ -105,9 +105,3 @@ These constants can be changed at the top of each file:
 - Received files are saved in the server's working directory as `received_<filename>`.
 - The `.venv/` folder is not required and should not be uploaded — anyone can recreate it with `python -m venv .venv`.
 
----
-
-## Author
-
-**shreya-shahapur**  
-[GitHub Profile](https://github.com/shreya-shahapur)
